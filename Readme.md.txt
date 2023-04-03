@@ -1,2 +1,0 @@
-Classify the image whether the image is in the form of rock, paper, and scissors.
-The data was provided by Dicoding https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
